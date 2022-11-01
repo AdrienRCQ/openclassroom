@@ -8,6 +8,6 @@ while (compteur < 10)
     printf("Bienvenue sur OpenClassrooms !\n");
     compteur++;
 }
-printf("la boucle a été répété %d \n\n", compteur);
+printf("la boucle a été répété %d fois \n\n", compteur);
 
 }
