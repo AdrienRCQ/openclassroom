@@ -1,0 +1,1 @@
+int verifage(int argc, char *argv[]);
